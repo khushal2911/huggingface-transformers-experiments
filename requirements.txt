@@ -1,0 +1,7 @@
+transformers[torch] # torch ensure 'accelerate' library is installed for Trainer
+sentencepiece
+datasets
+torch
+evaluate
+scikit-learn
+scipy
